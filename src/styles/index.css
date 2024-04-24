@@ -1,0 +1,16 @@
+/* index.css */
+body, #root {
+    background-color: #000;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+  
+  .about-title {
+    color: #ff69b4;
+  }
+  
+  .about-text {
+    color: #fff;
+  }
